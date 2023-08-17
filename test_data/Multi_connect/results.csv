@@ -1,0 +1,892 @@
+resultID,orderID,timestamp,result_type,result_name,result_value
+R001,O002,2016-10-20T22:23:32,image_result,Brain,0.95
+R002,O002,2016-10-20T22:56:32,image_result,Lumbar spine,0.18
+R003,O002,2016-10-20T22:41:32,image_result,Cervical spine,0.48
+R004,O002,2016-10-20T23:17:32,image_result,Knee,0.0
+R005,O002,2016-10-20T23:24:32,image_result,Shoulder,0.84
+R006,O003,2016-10-17T15:42:23,lab_result,Sodium,144.26
+R007,O003,2016-10-17T15:35:23,lab_result,Potassium,3.99
+R008,O003,2016-10-17T15:36:23,lab_result,Chloride,100.53
+R009,O003,2016-10-17T15:33:23,lab_result,BUN,10.81
+R010,O003,2016-10-17T15:33:23,lab_result,Creatinine,1.17
+R011,O004,2016-10-23T23:39:38,lab_result,Sodium,135.4
+R012,O004,2016-10-23T23:35:38,lab_result,Potassium,4.71
+R013,O004,2016-10-23T23:33:38,lab_result,Chloride,99.27
+R014,O004,2016-10-23T23:37:38,lab_result,BUN,9.78
+R015,O004,2016-10-23T23:39:38,lab_result,Creatinine,1.26
+R016,O005,2016-10-19T11:46:06,image_result,Chest,0.19
+R017,O005,2016-10-19T11:56:06,image_result,Abdomen,0.38
+R018,O005,2016-10-19T11:59:06,image_result,Pelvis,0.96
+R019,O005,2016-10-19T10:35:06,image_result,Lumbar spine,0.42
+R020,O005,2016-10-19T11:23:06,image_result,Knee,0.08
+R021,O005,2016-10-19T11:52:06,image_result,Wrist,0.41
+R022,O006,2016-10-23T07:18:58,image_result,Chest,0.24
+R023,O006,2016-10-23T07:21:58,image_result,Abdomen,0.93
+R024,O006,2016-10-23T07:50:58,image_result,Pelvis,0.69
+R025,O006,2016-10-23T07:40:58,image_result,Lumbar spine,0.43
+R026,O006,2016-10-23T07:33:58,image_result,Knee,0.29
+R027,O006,2016-10-23T08:20:58,image_result,Wrist,0.64
+R028,O007,2009-10-26T02:09:44,image_result,Abdomen,0.39
+R029,O007,2009-10-26T01:32:44,image_result,Pelvis,0.47
+R030,O007,2009-10-26T02:34:44,image_result,Carotid,0.1
+R031,O007,2009-10-26T02:21:44,image_result,Thyroid,0.59
+R032,O007,2009-10-26T02:02:44,image_result,Scrotum,0.33
+R033,O008,2009-10-29T19:35:22,lab_result,Hemoglobin,13.38
+R034,O008,2009-10-29T19:29:22,lab_result,Hematocrit,48.8
+R035,O008,2009-10-29T19:31:22,lab_result,White Blood Cell Count,8.62
+R036,O009,2009-10-27T20:47:46,lab_result,Sodium,136.6
+R037,O009,2009-10-27T20:41:46,lab_result,Potassium,4.76
+R038,O009,2009-10-27T20:45:46,lab_result,Chloride,100.11
+R039,O009,2009-10-27T20:47:46,lab_result,BUN,15.55
+R040,O009,2009-10-27T20:47:46,lab_result,Creatinine,1.05
+R041,O010,2006-10-01T17:30:30,image_result,Abdomen,0.73
+R042,O010,2006-10-01T17:33:30,image_result,Pelvis,0.45
+R043,O010,2006-10-01T16:50:30,image_result,Carotid,0.55
+R044,O010,2006-10-01T17:33:30,image_result,Thyroid,0.65
+R045,O010,2006-10-01T17:26:30,image_result,Scrotum,0.87
+R046,O017,2009-05-20T07:58:28,image_result,Abdomen,0.62
+R047,O017,2009-05-20T08:07:28,image_result,Pelvis,0.24
+R048,O017,2009-05-20T07:57:28,image_result,Carotid,0.03
+R049,O017,2009-05-20T07:40:28,image_result,Thyroid,0.67
+R050,O017,2009-05-20T08:25:28,image_result,Scrotum,0.92
+R051,O018,2009-05-23T07:13:42,image_result,Abdomen,0.59
+R052,O018,2009-05-23T07:33:42,image_result,Pelvis,0.23
+R053,O018,2009-05-23T07:19:42,image_result,Carotid,0.68
+R054,O018,2009-05-23T07:03:42,image_result,Thyroid,0.27
+R055,O018,2009-05-23T07:39:42,image_result,Scrotum,0.28
+R056,O019,2009-05-20T14:19:05,lab_result,Hemoglobin,16.19
+R057,O019,2009-05-20T14:13:05,lab_result,Hematocrit,42.19
+R058,O019,2009-05-20T14:18:05,lab_result,White Blood Cell Count,10.22
+R059,O024,2009-04-16T11:16:36,lab_result,Sodium,139.15
+R060,O024,2009-04-16T11:14:36,lab_result,Potassium,5.09
+R061,O024,2009-04-16T11:15:36,lab_result,Chloride,100.46
+R062,O024,2009-04-16T11:18:36,lab_result,BUN,14.92
+R063,O024,2009-04-16T11:16:36,lab_result,Creatinine,1.29
+R064,O024,2009-04-16T11:20:36,lab_result,AST,16.63
+R065,O024,2009-04-16T11:19:36,lab_result,ALT,7.82
+R066,O024,2009-04-16T11:11:36,lab_result,Alkaline phosphatase,94.72
+R067,O024,2009-04-16T11:15:36,lab_result,Total bilirubin,0.64
+R068,O025,2022-02-08T23:39:14,lab_result,Sodium,140.31
+R069,O025,2022-02-08T23:46:14,lab_result,Potassium,3.99
+R070,O025,2022-02-08T23:44:14,lab_result,Chloride,102.91
+R071,O025,2022-02-08T23:40:14,lab_result,BUN,11.39
+R072,O025,2022-02-08T23:46:14,lab_result,Creatinine,0.89
+R073,O025,2022-02-08T23:47:14,lab_result,AST,32.85
+R074,O025,2022-02-08T23:39:14,lab_result,ALT,28.91
+R075,O025,2022-02-08T23:47:14,lab_result,Alkaline phosphatase,106.85
+R076,O025,2022-02-08T23:44:14,lab_result,Total bilirubin,0.66
+R077,O026,2022-02-09T06:47:54,lab_result,Hemoglobin,12.76
+R078,O026,2022-02-09T06:52:54,lab_result,Hematocrit,38.72
+R079,O026,2022-02-09T06:46:54,lab_result,White Blood Cell Count,4.73
+R080,O027,2019-01-03T05:53:05,image_result,Chest,0.85
+R081,O027,2019-01-03T05:37:05,image_result,Abdomen,0.0
+R082,O027,2019-01-03T04:50:05,image_result,Pelvis,0.36
+R083,O027,2019-01-03T05:03:05,image_result,Lumbar spine,0.65
+R084,O027,2019-01-03T05:41:05,image_result,Knee,0.81
+R085,O027,2019-01-03T05:41:05,image_result,Wrist,0.74
+R086,O028,2019-01-02T16:18:22,lab_result,Sodium,139.0
+R087,O028,2019-01-02T16:17:22,lab_result,Potassium,3.61
+R088,O028,2019-01-02T16:12:22,lab_result,Chloride,104.74
+R089,O028,2019-01-02T16:18:22,lab_result,BUN,16.61
+R090,O028,2019-01-02T16:18:22,lab_result,Creatinine,1.08
+R091,O029,2019-01-04T03:28:00,lab_result,Hemoglobin,16.87
+R092,O029,2019-01-04T03:26:00,lab_result,Hematocrit,45.66
+R093,O029,2019-01-04T03:20:00,lab_result,White Blood Cell Count,10.49
+R094,O031,2009-08-14T20:08:59,image_result,Chest,0.77
+R095,O031,2009-08-14T20:00:59,image_result,Abdomen,0.57
+R096,O031,2009-08-14T20:11:59,image_result,Pelvis,0.4
+R097,O031,2009-08-14T20:16:59,image_result,Lumbar spine,0.31
+R098,O031,2009-08-14T20:07:59,image_result,Knee,0.67
+R099,O031,2009-08-14T20:15:59,image_result,Wrist,0.21
+R100,O032,2009-08-17T12:57:04,lab_result,Sodium,144.06
+R101,O032,2009-08-17T12:54:04,lab_result,Potassium,3.96
+R102,O032,2009-08-17T12:51:04,lab_result,Chloride,99.31
+R103,O032,2009-08-17T13:00:04,lab_result,BUN,11.94
+R104,O032,2009-08-17T12:51:04,lab_result,Creatinine,0.96
+R105,O032,2009-08-17T12:50:04,lab_result,AST,32.47
+R106,O032,2009-08-17T12:56:04,lab_result,ALT,50.15
+R107,O032,2009-08-17T12:50:04,lab_result,Alkaline phosphatase,45.21
+R108,O032,2009-08-17T12:50:04,lab_result,Total bilirubin,0.91
+R109,O033,2009-08-17T16:36:39,lab_result,Sodium,140.1
+R110,O033,2009-08-17T16:37:39,lab_result,Potassium,4.02
+R111,O033,2009-08-17T16:43:39,lab_result,Chloride,104.78
+R112,O033,2009-08-17T16:40:39,lab_result,BUN,15.8
+R113,O033,2009-08-17T16:39:39,lab_result,Creatinine,0.84
+R114,O033,2009-08-17T16:42:39,lab_result,AST,19.42
+R115,O033,2009-08-17T16:37:39,lab_result,ALT,38.05
+R116,O033,2009-08-17T16:43:39,lab_result,Alkaline phosphatase,77.6
+R117,O033,2009-08-17T16:34:39,lab_result,Total bilirubin,0.56
+R118,O035,2011-01-31T22:53:13,image_result,Brain,0.89
+R119,O035,2011-01-31T22:03:13,image_result,Lumbar spine,0.01
+R120,O035,2011-01-31T21:59:13,image_result,Cervical spine,0.09
+R121,O035,2011-01-31T22:40:13,image_result,Knee,0.52
+R122,O035,2011-01-31T22:54:13,image_result,Shoulder,0.95
+R123,O038,2011-01-31T20:28:39,image_result,Abdomen,0.22
+R124,O038,2011-01-31T21:33:39,image_result,Pelvis,0.74
+R125,O038,2011-01-31T21:06:39,image_result,Carotid,0.95
+R126,O038,2011-01-31T21:04:39,image_result,Thyroid,0.01
+R127,O038,2011-01-31T21:06:39,image_result,Scrotum,0.38
+R128,O039,2011-01-30T15:20:46,image_result,Chest,0.16
+R129,O039,2011-01-30T14:51:46,image_result,Abdomen,0.41
+R130,O039,2011-01-30T15:32:46,image_result,Pelvis,0.3
+R131,O039,2011-01-30T15:31:46,image_result,Lumbar spine,0.34
+R132,O039,2011-01-30T14:54:46,image_result,Knee,0.01
+R133,O039,2011-01-30T16:06:46,image_result,Wrist,0.97
+R134,O040,2015-04-29T07:57:01,image_result,Brain,0.4
+R135,O040,2015-04-29T07:13:01,image_result,Lumbar spine,0.38
+R136,O040,2015-04-29T08:41:01,image_result,Cervical spine,0.85
+R137,O040,2015-04-29T07:57:01,image_result,Knee,0.23
+R138,O040,2015-04-29T08:29:01,image_result,Shoulder,0.16
+R139,O041,2015-04-30T02:06:53,image_result,Abdomen,0.08
+R140,O041,2015-04-30T01:20:53,image_result,Pelvis,0.4
+R141,O041,2015-04-30T02:03:53,image_result,Carotid,0.91
+R142,O041,2015-04-30T00:54:53,image_result,Thyroid,0.55
+R143,O041,2015-04-30T01:29:53,image_result,Scrotum,0.49
+R144,O043,2004-10-06T04:17:10,lab_result,Sodium,141.35
+R145,O043,2004-10-06T04:14:10,lab_result,Potassium,4.44
+R146,O043,2004-10-06T04:17:10,lab_result,Chloride,101.84
+R147,O043,2004-10-06T04:12:10,lab_result,BUN,13.7
+R148,O043,2004-10-06T04:22:10,lab_result,Creatinine,0.95
+R149,O045,2016-10-11T18:32:57,lab_result,Hemoglobin,16.63
+R150,O045,2016-10-11T18:24:57,lab_result,Hematocrit,41.76
+R151,O045,2016-10-11T18:24:57,lab_result,White Blood Cell Count,7.89
+R152,O048,2009-12-25T19:37:12,lab_result,Sodium,143.08
+R153,O048,2009-12-25T19:38:12,lab_result,Potassium,4.31
+R154,O048,2009-12-25T19:40:12,lab_result,Chloride,98.69
+R155,O048,2009-12-25T19:41:12,lab_result,BUN,15.06
+R156,O048,2009-12-25T19:46:12,lab_result,Creatinine,1.03
+R157,O048,2009-12-25T19:39:12,lab_result,AST,11.69
+R158,O048,2009-12-25T19:45:12,lab_result,ALT,37.73
+R159,O048,2009-12-25T19:42:12,lab_result,Alkaline phosphatase,101.26
+R160,O048,2009-12-25T19:41:12,lab_result,Total bilirubin,0.67
+R161,O049,2009-12-27T16:43:03,image_result,Abdomen,0.93
+R162,O049,2009-12-27T17:15:03,image_result,Pelvis,0.11
+R163,O049,2009-12-27T16:40:03,image_result,Carotid,0.61
+R164,O049,2009-12-27T17:08:03,image_result,Thyroid,0.65
+R165,O049,2009-12-27T17:34:03,image_result,Scrotum,0.37
+R166,O050,2010-06-12T11:48:19,image_result,Abdomen,0.62
+R167,O050,2010-06-12T11:32:19,image_result,Pelvis,0.37
+R168,O050,2010-06-12T10:58:19,image_result,Carotid,0.91
+R169,O050,2010-06-12T11:20:19,image_result,Thyroid,0.24
+R170,O050,2010-06-12T11:57:19,image_result,Scrotum,0.28
+R171,O054,2016-12-29T19:10:07,lab_result,Hemoglobin,15.74
+R172,O054,2016-12-29T19:13:07,lab_result,Hematocrit,37.48
+R173,O054,2016-12-29T19:07:07,lab_result,White Blood Cell Count,10.59
+R174,O056,2005-03-21T00:20:13,image_result,Brain,0.18
+R175,O056,2005-03-21T01:10:13,image_result,Lumbar spine,0.56
+R176,O056,2005-03-21T00:47:13,image_result,Cervical spine,0.35
+R177,O056,2005-03-21T00:42:13,image_result,Knee,0.36
+R178,O056,2005-03-21T00:20:13,image_result,Shoulder,0.09
+R179,O057,2005-03-21T10:24:36,image_result,Abdomen,0.35
+R180,O057,2005-03-21T10:01:36,image_result,Pelvis,0.96
+R181,O057,2005-03-21T10:39:36,image_result,Carotid,0.49
+R182,O057,2005-03-21T09:59:36,image_result,Thyroid,0.56
+R183,O057,2005-03-21T10:15:36,image_result,Scrotum,0.0
+R184,O060,2000-07-27T16:33:15,lab_result,Sodium,138.54
+R185,O060,2000-07-27T16:34:15,lab_result,Potassium,4.47
+R186,O060,2000-07-27T16:26:15,lab_result,Chloride,102.2
+R187,O060,2000-07-27T16:33:15,lab_result,BUN,9.41
+R188,O060,2000-07-27T16:28:15,lab_result,Creatinine,0.93
+R189,O061,2000-07-27T08:28:45,image_result,Chest,0.31
+R190,O061,2000-07-27T08:22:45,image_result,Abdomen,0.31
+R191,O061,2000-07-27T07:43:45,image_result,Pelvis,0.59
+R192,O061,2000-07-27T07:21:45,image_result,Lumbar spine,0.79
+R193,O061,2000-07-27T08:50:45,image_result,Knee,0.07
+R194,O061,2000-07-27T08:38:45,image_result,Wrist,0.55
+R195,O062,2000-07-27T14:41:13,image_result,Chest,0.83
+R196,O062,2000-07-27T14:00:13,image_result,Abdomen,0.72
+R197,O062,2000-07-27T14:31:13,image_result,Pelvis,0.98
+R198,O062,2000-07-27T14:50:13,image_result,Lumbar spine,0.97
+R199,O062,2000-07-27T14:11:13,image_result,Knee,0.62
+R200,O062,2000-07-27T13:35:13,image_result,Wrist,0.42
+R201,O064,2015-01-28T18:49:35,image_result,Brain,0.43
+R202,O064,2015-01-28T18:58:35,image_result,Lumbar spine,0.59
+R203,O064,2015-01-28T18:48:35,image_result,Cervical spine,0.72
+R204,O064,2015-01-28T19:34:35,image_result,Knee,0.44
+R205,O064,2015-01-28T19:15:35,image_result,Shoulder,0.75
+R206,O065,2015-01-26T14:33:13,image_result,Chest,0.54
+R207,O065,2015-01-26T15:40:13,image_result,Abdomen,0.95
+R208,O065,2015-01-26T14:41:13,image_result,Pelvis,0.75
+R209,O065,2015-01-26T14:59:13,image_result,Lumbar spine,0.24
+R210,O065,2015-01-26T14:26:13,image_result,Knee,0.55
+R211,O065,2015-01-26T14:28:13,image_result,Wrist,0.94
+R212,O066,2015-01-25T15:14:18,image_result,Brain,0.02
+R213,O066,2015-01-25T14:56:18,image_result,Lumbar spine,0.9
+R214,O066,2015-01-25T15:17:18,image_result,Cervical spine,0.56
+R215,O066,2015-01-25T14:30:18,image_result,Knee,0.04
+R216,O066,2015-01-25T14:52:18,image_result,Shoulder,0.25
+R217,O068,2014-12-24T18:25:34,lab_result,Sodium,141.08
+R218,O068,2014-12-24T18:25:34,lab_result,Potassium,4.61
+R219,O068,2014-12-24T18:19:34,lab_result,Chloride,104.23
+R220,O068,2014-12-24T18:18:34,lab_result,BUN,16.72
+R221,O068,2014-12-24T18:20:34,lab_result,Creatinine,0.85
+R222,O069,2014-12-24T11:25:03,lab_result,Hemoglobin,14.11
+R223,O069,2014-12-24T11:22:03,lab_result,Hematocrit,35.45
+R224,O069,2014-12-24T11:21:03,lab_result,White Blood Cell Count,8.59
+R225,O070,2014-12-24T18:01:07,lab_result,Hemoglobin,14.99
+R226,O070,2014-12-24T17:58:07,lab_result,Hematocrit,44.94
+R227,O070,2014-12-24T17:56:07,lab_result,White Blood Cell Count,5.68
+R228,O071,2014-12-25T12:16:18,image_result,Brain,0.28
+R229,O071,2014-12-25T11:25:18,image_result,Lumbar spine,0.05
+R230,O071,2014-12-25T11:46:18,image_result,Cervical spine,0.48
+R231,O071,2014-12-25T12:04:18,image_result,Knee,0.31
+R232,O071,2014-12-25T12:25:18,image_result,Shoulder,0.53
+R233,O072,2001-09-11T15:36:00,lab_result,Sodium,136.81
+R234,O072,2001-09-11T15:34:00,lab_result,Potassium,4.03
+R235,O072,2001-09-11T15:39:00,lab_result,Chloride,96.0
+R236,O072,2001-09-11T15:33:00,lab_result,BUN,13.9
+R237,O072,2001-09-11T15:35:00,lab_result,Creatinine,0.86
+R238,O074,2012-11-01T04:02:09,image_result,Abdomen,0.48
+R239,O074,2012-11-01T03:45:09,image_result,Pelvis,0.32
+R240,O074,2012-11-01T03:15:09,image_result,Carotid,0.18
+R241,O074,2012-11-01T03:50:09,image_result,Thyroid,0.4
+R242,O074,2012-11-01T03:11:09,image_result,Scrotum,0.71
+R243,O075,2012-11-01T16:14:04,image_result,Chest,0.35
+R244,O075,2012-11-01T14:56:04,image_result,Abdomen,0.03
+R245,O075,2012-11-01T14:59:04,image_result,Pelvis,0.71
+R246,O075,2012-11-01T14:57:04,image_result,Lumbar spine,0.81
+R247,O075,2012-11-01T15:47:04,image_result,Knee,0.12
+R248,O075,2012-11-01T16:15:04,image_result,Wrist,0.88
+R249,O077,2012-10-31T16:50:13,image_result,Chest,0.95
+R250,O077,2012-10-31T17:50:13,image_result,Abdomen,0.76
+R251,O077,2012-10-31T17:06:13,image_result,Pelvis,0.77
+R252,O077,2012-10-31T17:01:13,image_result,Lumbar spine,0.39
+R253,O077,2012-10-31T17:34:13,image_result,Knee,0.11
+R254,O077,2012-10-31T17:23:13,image_result,Wrist,0.26
+R255,O078,2012-11-01T05:46:43,image_result,Abdomen,0.8
+R256,O078,2012-11-01T05:05:43,image_result,Pelvis,0.4
+R257,O078,2012-11-01T06:09:43,image_result,Carotid,0.3
+R258,O078,2012-11-01T04:51:43,image_result,Thyroid,0.69
+R259,O078,2012-11-01T05:58:43,image_result,Scrotum,0.99
+R260,O083,2000-03-28T12:01:16,lab_result,Sodium,138.84
+R261,O083,2000-03-28T12:02:16,lab_result,Potassium,4.55
+R262,O083,2000-03-28T12:06:16,lab_result,Chloride,103.49
+R263,O083,2000-03-28T12:01:16,lab_result,BUN,13.59
+R264,O083,2000-03-28T12:03:16,lab_result,Creatinine,1.18
+R265,O083,2000-03-28T12:04:16,lab_result,AST,25.81
+R266,O083,2000-03-28T12:00:16,lab_result,ALT,40.65
+R267,O083,2000-03-28T12:03:16,lab_result,Alkaline phosphatase,50.46
+R268,O083,2000-03-28T12:04:16,lab_result,Total bilirubin,0.82
+R269,O085,2011-09-05T15:28:33,lab_result,Hemoglobin,13.41
+R270,O085,2011-09-05T15:32:33,lab_result,Hematocrit,38.28
+R271,O085,2011-09-05T15:36:33,lab_result,White Blood Cell Count,9.4
+R272,O089,2006-08-19T04:07:06,image_result,Brain,0.34
+R273,O089,2006-08-19T04:26:06,image_result,Lumbar spine,0.63
+R274,O089,2006-08-19T04:44:06,image_result,Cervical spine,0.07
+R275,O089,2006-08-19T04:50:06,image_result,Knee,0.9
+R276,O089,2006-08-19T04:13:06,image_result,Shoulder,0.6
+R277,O090,2006-08-12T10:34:23,image_result,Abdomen,0.71
+R278,O090,2006-08-12T09:21:23,image_result,Pelvis,0.98
+R279,O090,2006-08-12T10:03:23,image_result,Carotid,0.17
+R280,O090,2006-08-12T10:11:23,image_result,Thyroid,0.08
+R281,O090,2006-08-12T09:41:23,image_result,Scrotum,0.56
+R282,O091,2006-08-13T17:30:10,lab_result,Sodium,137.46
+R283,O091,2006-08-13T17:31:10,lab_result,Potassium,4.65
+R284,O091,2006-08-13T17:32:10,lab_result,Chloride,96.53
+R285,O091,2006-08-13T17:23:10,lab_result,BUN,9.42
+R286,O091,2006-08-13T17:27:10,lab_result,Creatinine,1.03
+R287,O092,2006-08-13T17:47:27,lab_result,Sodium,139.19
+R288,O092,2006-08-13T17:55:27,lab_result,Potassium,5.05
+R289,O092,2006-08-13T17:46:27,lab_result,Chloride,104.37
+R290,O092,2006-08-13T17:46:27,lab_result,BUN,14.12
+R291,O092,2006-08-13T17:56:27,lab_result,Creatinine,1.18
+R292,O093,2006-08-15T07:14:01,image_result,Brain,0.81
+R293,O093,2006-08-15T07:43:01,image_result,Lumbar spine,0.66
+R294,O093,2006-08-15T08:05:01,image_result,Cervical spine,0.31
+R295,O093,2006-08-15T07:57:01,image_result,Knee,0.58
+R296,O093,2006-08-15T08:33:01,image_result,Shoulder,0.43
+R297,O095,2020-09-18T03:42:41,lab_result,Sodium,139.02
+R298,O095,2020-09-18T03:45:41,lab_result,Potassium,3.63
+R299,O095,2020-09-18T03:41:41,lab_result,Chloride,97.24
+R300,O095,2020-09-18T03:39:41,lab_result,BUN,16.96
+R301,O095,2020-09-18T03:39:41,lab_result,Creatinine,0.91
+R302,O096,2020-09-19T08:49:46,image_result,Chest,0.24
+R303,O096,2020-09-19T08:33:46,image_result,Abdomen,0.98
+R304,O096,2020-09-19T08:33:46,image_result,Pelvis,0.57
+R305,O096,2020-09-19T08:24:46,image_result,Lumbar spine,0.3
+R306,O096,2020-09-19T08:35:46,image_result,Knee,0.12
+R307,O096,2020-09-19T08:37:46,image_result,Wrist,0.42
+R308,O099,2015-04-26T23:12:35,image_result,Brain,0.25
+R309,O099,2015-04-26T23:23:35,image_result,Lumbar spine,0.78
+R310,O099,2015-04-26T22:33:35,image_result,Cervical spine,0.82
+R311,O099,2015-04-26T23:02:35,image_result,Knee,0.3
+R312,O099,2015-04-26T23:39:35,image_result,Shoulder,0.02
+R313,O100,2015-04-26T01:52:57,image_result,Brain,0.36
+R314,O100,2015-04-26T01:54:57,image_result,Lumbar spine,0.87
+R315,O100,2015-04-26T01:35:57,image_result,Cervical spine,0.19
+R316,O100,2015-04-26T00:55:57,image_result,Knee,0.82
+R317,O100,2015-04-26T01:13:57,image_result,Shoulder,0.99
+R318,O103,2020-02-14T15:57:34,image_result,Abdomen,0.35
+R319,O103,2020-02-14T15:52:34,image_result,Pelvis,0.98
+R320,O103,2020-02-14T15:22:34,image_result,Carotid,0.1
+R321,O103,2020-02-14T16:02:34,image_result,Thyroid,0.43
+R322,O103,2020-02-14T15:45:34,image_result,Scrotum,0.48
+R323,O106,2006-10-14T17:41:17,image_result,Abdomen,0.37
+R324,O106,2006-10-14T17:51:17,image_result,Pelvis,0.44
+R325,O106,2006-10-14T16:27:17,image_result,Carotid,0.2
+R326,O106,2006-10-14T17:00:17,image_result,Thyroid,0.16
+R327,O106,2006-10-14T17:09:17,image_result,Scrotum,0.65
+R328,O107,2006-10-12T01:25:19,image_result,Chest,0.49
+R329,O107,2006-10-12T00:59:19,image_result,Abdomen,0.39
+R330,O107,2006-10-12T00:30:19,image_result,Pelvis,0.85
+R331,O107,2006-10-12T02:00:19,image_result,Lumbar spine,0.93
+R332,O107,2006-10-12T00:57:19,image_result,Knee,0.27
+R333,O107,2006-10-12T01:03:19,image_result,Wrist,0.18
+R334,O110,2015-05-08T22:45:27,lab_result,Sodium,144.68
+R335,O110,2015-05-08T22:46:27,lab_result,Potassium,4.24
+R336,O110,2015-05-08T22:54:27,lab_result,Chloride,104.38
+R337,O110,2015-05-08T22:47:27,lab_result,BUN,7.33
+R338,O110,2015-05-08T22:52:27,lab_result,Creatinine,1.2
+R339,O110,2015-05-08T22:48:27,lab_result,AST,28.43
+R340,O110,2015-05-08T22:45:27,lab_result,ALT,20.51
+R341,O110,2015-05-08T22:45:27,lab_result,Alkaline phosphatase,51.96
+R342,O110,2015-05-08T22:48:27,lab_result,Total bilirubin,0.36
+R343,O111,2015-05-03T18:30:14,image_result,Brain,0.99
+R344,O111,2015-05-03T18:00:14,image_result,Lumbar spine,0.14
+R345,O111,2015-05-03T17:58:14,image_result,Cervical spine,0.76
+R346,O111,2015-05-03T19:12:14,image_result,Knee,0.01
+R347,O111,2015-05-03T17:54:14,image_result,Shoulder,0.59
+R348,O112,2015-05-09T23:27:27,lab_result,Hemoglobin,17.61
+R349,O112,2015-05-09T23:32:27,lab_result,Hematocrit,41.12
+R350,O112,2015-05-09T23:27:27,lab_result,White Blood Cell Count,8.23
+R351,O114,2007-07-30T06:14:23,image_result,Chest,0.96
+R352,O114,2007-07-30T05:50:23,image_result,Abdomen,0.53
+R353,O114,2007-07-30T06:19:23,image_result,Pelvis,0.09
+R354,O114,2007-07-30T06:47:23,image_result,Lumbar spine,0.02
+R355,O114,2007-07-30T06:38:23,image_result,Knee,0.37
+R356,O114,2007-07-30T06:40:23,image_result,Wrist,0.59
+R357,O116,2007-07-31T12:58:39,image_result,Brain,0.2
+R358,O116,2007-07-31T12:40:39,image_result,Lumbar spine,0.44
+R359,O116,2007-07-31T12:09:39,image_result,Cervical spine,0.78
+R360,O116,2007-07-31T12:41:39,image_result,Knee,0.03
+R361,O116,2007-07-31T12:22:39,image_result,Shoulder,0.53
+R362,O117,2007-07-31T11:42:48,lab_result,Sodium,137.34
+R363,O117,2007-07-31T11:43:48,lab_result,Potassium,3.84
+R364,O117,2007-07-31T11:45:48,lab_result,Chloride,100.84
+R365,O117,2007-07-31T11:37:48,lab_result,BUN,7.0
+R366,O117,2007-07-31T11:42:48,lab_result,Creatinine,1.24
+R367,O124,2021-07-30T04:02:05,lab_result,Sodium,141.91
+R368,O124,2021-07-30T03:54:05,lab_result,Potassium,5.08
+R369,O124,2021-07-30T04:04:05,lab_result,Chloride,96.99
+R370,O124,2021-07-30T03:57:05,lab_result,BUN,11.79
+R371,O124,2021-07-30T04:04:05,lab_result,Creatinine,1.21
+R372,O124,2021-07-30T04:01:05,lab_result,AST,10.7
+R373,O124,2021-07-30T03:58:05,lab_result,ALT,35.5
+R374,O124,2021-07-30T04:03:05,lab_result,Alkaline phosphatase,78.54
+R375,O124,2021-07-30T03:55:05,lab_result,Total bilirubin,0.21
+R376,O125,2021-07-30T13:51:25,lab_result,Sodium,135.27
+R377,O125,2021-07-30T13:51:25,lab_result,Potassium,4.97
+R378,O125,2021-07-30T13:53:25,lab_result,Chloride,103.52
+R379,O125,2021-07-30T13:54:25,lab_result,BUN,8.57
+R380,O125,2021-07-30T13:51:25,lab_result,Creatinine,1.17
+R381,O125,2021-07-30T13:48:25,lab_result,AST,20.61
+R382,O125,2021-07-30T13:50:25,lab_result,ALT,32.9
+R383,O125,2021-07-30T13:58:25,lab_result,Alkaline phosphatase,83.4
+R384,O125,2021-07-30T13:52:25,lab_result,Total bilirubin,0.68
+R385,O127,2002-07-06T08:09:36,image_result,Abdomen,0.93
+R386,O127,2002-07-06T09:24:36,image_result,Pelvis,0.44
+R387,O127,2002-07-06T08:34:36,image_result,Carotid,0.43
+R388,O127,2002-07-06T08:27:36,image_result,Thyroid,0.57
+R389,O127,2002-07-06T09:34:36,image_result,Scrotum,0.63
+R390,O128,2002-07-09T12:50:20,image_result,Brain,0.47
+R391,O128,2002-07-09T14:04:20,image_result,Lumbar spine,0.27
+R392,O128,2002-07-09T12:45:20,image_result,Cervical spine,0.1
+R393,O128,2002-07-09T13:58:20,image_result,Knee,0.57
+R394,O128,2002-07-09T13:46:20,image_result,Shoulder,0.65
+R395,O129,2002-07-11T21:50:34,image_result,Abdomen,0.11
+R396,O129,2002-07-11T21:35:34,image_result,Pelvis,0.25
+R397,O129,2002-07-11T22:29:34,image_result,Carotid,0.88
+R398,O129,2002-07-11T22:40:34,image_result,Thyroid,0.2
+R399,O129,2002-07-11T22:51:34,image_result,Scrotum,0.8
+R400,O130,2002-07-13T17:06:20,image_result,Abdomen,0.67
+R401,O130,2002-07-13T16:55:20,image_result,Pelvis,0.07
+R402,O130,2002-07-13T16:31:20,image_result,Carotid,0.33
+R403,O130,2002-07-13T17:36:20,image_result,Thyroid,0.61
+R404,O130,2002-07-13T17:03:20,image_result,Scrotum,0.76
+R405,O131,2002-07-12T03:29:35,image_result,Brain,0.79
+R406,O131,2002-07-12T03:08:35,image_result,Lumbar spine,0.26
+R407,O131,2002-07-12T02:51:35,image_result,Cervical spine,0.93
+R408,O131,2002-07-12T03:37:35,image_result,Knee,0.49
+R409,O131,2002-07-12T03:04:35,image_result,Shoulder,0.14
+R410,O132,2011-02-16T23:22:15,lab_result,Sodium,139.69
+R411,O132,2011-02-16T23:26:15,lab_result,Potassium,4.11
+R412,O132,2011-02-16T23:23:15,lab_result,Chloride,104.51
+R413,O132,2011-02-16T23:21:15,lab_result,BUN,16.18
+R414,O132,2011-02-16T23:28:15,lab_result,Creatinine,0.84
+R415,O132,2011-02-16T23:27:15,lab_result,AST,32.78
+R416,O132,2011-02-16T23:27:15,lab_result,ALT,10.62
+R417,O132,2011-02-16T23:22:15,lab_result,Alkaline phosphatase,55.62
+R418,O132,2011-02-16T23:30:15,lab_result,Total bilirubin,0.73
+R419,O133,2023-01-03T16:04:36,image_result,Brain,0.1
+R420,O133,2023-01-03T16:11:36,image_result,Lumbar spine,0.82
+R421,O133,2023-01-03T16:56:36,image_result,Cervical spine,0.46
+R422,O133,2023-01-03T16:38:36,image_result,Knee,0.88
+R423,O133,2023-01-03T16:56:36,image_result,Shoulder,0.91
+R424,O135,2009-10-24T08:29:53,image_result,Chest,0.7
+R425,O135,2009-10-24T08:48:53,image_result,Abdomen,0.79
+R426,O135,2009-10-24T08:23:53,image_result,Pelvis,0.93
+R427,O135,2009-10-24T08:20:53,image_result,Lumbar spine,0.44
+R428,O135,2009-10-24T09:20:53,image_result,Knee,0.97
+R429,O135,2009-10-24T08:06:53,image_result,Wrist,0.27
+R430,O136,2009-10-25T06:11:08,lab_result,Sodium,140.46
+R431,O136,2009-10-25T06:08:08,lab_result,Potassium,4.05
+R432,O136,2009-10-25T06:08:08,lab_result,Chloride,101.93
+R433,O136,2009-10-25T06:04:08,lab_result,BUN,18.23
+R434,O136,2009-10-25T06:10:08,lab_result,Creatinine,1.23
+R435,O136,2009-10-25T06:07:08,lab_result,AST,27.03
+R436,O136,2009-10-25T06:08:08,lab_result,ALT,52.22
+R437,O136,2009-10-25T06:10:08,lab_result,Alkaline phosphatase,105.43
+R438,O136,2009-10-25T06:08:08,lab_result,Total bilirubin,0.47
+R439,O137,2002-06-08T22:13:14,image_result,Brain,0.9
+R440,O137,2002-06-08T20:57:14,image_result,Lumbar spine,0.48
+R441,O137,2002-06-08T21:31:14,image_result,Cervical spine,0.44
+R442,O137,2002-06-08T21:49:14,image_result,Knee,0.33
+R443,O137,2002-06-08T21:39:14,image_result,Shoulder,0.09
+R444,O140,2002-06-08T21:23:11,lab_result,Sodium,138.29
+R445,O140,2002-06-08T21:25:11,lab_result,Potassium,4.89
+R446,O140,2002-06-08T21:29:11,lab_result,Chloride,97.13
+R447,O140,2002-06-08T21:22:11,lab_result,BUN,10.2
+R448,O140,2002-06-08T21:23:11,lab_result,Creatinine,1.28
+R449,O141,2015-07-26T08:21:07,image_result,Chest,0.4
+R450,O141,2015-07-26T07:27:07,image_result,Abdomen,0.31
+R451,O141,2015-07-26T08:12:07,image_result,Pelvis,0.31
+R452,O141,2015-07-26T08:28:07,image_result,Lumbar spine,0.28
+R453,O141,2015-07-26T07:59:07,image_result,Knee,0.1
+R454,O141,2015-07-26T08:06:07,image_result,Wrist,0.73
+R455,O143,2015-07-30T01:10:48,image_result,Brain,0.9
+R456,O143,2015-07-30T01:14:48,image_result,Lumbar spine,0.19
+R457,O143,2015-07-30T01:23:48,image_result,Cervical spine,0.12
+R458,O143,2015-07-30T00:58:48,image_result,Knee,0.84
+R459,O143,2015-07-30T00:42:48,image_result,Shoulder,0.56
+R460,O144,2015-07-29T07:57:50,lab_result,Sodium,142.8
+R461,O144,2015-07-29T07:59:50,lab_result,Potassium,4.81
+R462,O144,2015-07-29T07:57:50,lab_result,Chloride,98.53
+R463,O144,2015-07-29T07:49:50,lab_result,BUN,8.7
+R464,O144,2015-07-29T07:53:50,lab_result,Creatinine,0.98
+R465,O144,2015-07-29T07:52:50,lab_result,AST,18.32
+R466,O144,2015-07-29T07:54:50,lab_result,ALT,41.1
+R467,O144,2015-07-29T07:56:50,lab_result,Alkaline phosphatase,58.27
+R468,O144,2015-07-29T07:55:50,lab_result,Total bilirubin,0.78
+R469,O145,2015-07-26T00:39:41,image_result,Abdomen,0.95
+R470,O145,2015-07-25T23:56:41,image_result,Pelvis,0.54
+R471,O145,2015-07-26T00:34:41,image_result,Carotid,0.09
+R472,O145,2015-07-26T00:59:41,image_result,Thyroid,0.19
+R473,O145,2015-07-26T01:17:41,image_result,Scrotum,0.8
+R474,O146,2011-09-03T01:04:37,lab_result,Hemoglobin,12.07
+R475,O146,2011-09-03T01:05:37,lab_result,Hematocrit,48.11
+R476,O146,2011-09-03T01:08:37,lab_result,White Blood Cell Count,6.48
+R477,O147,2011-09-03T09:04:12,lab_result,Hemoglobin,15.43
+R478,O147,2011-09-03T09:03:12,lab_result,Hematocrit,45.74
+R479,O147,2011-09-03T09:04:12,lab_result,White Blood Cell Count,4.56
+R480,O148,2011-09-04T09:07:35,lab_result,Sodium,144.98
+R481,O148,2011-09-04T09:05:35,lab_result,Potassium,3.9
+R482,O148,2011-09-04T09:07:35,lab_result,Chloride,103.17
+R483,O148,2011-09-04T09:05:35,lab_result,BUN,8.64
+R484,O148,2011-09-04T09:06:35,lab_result,Creatinine,1.25
+R485,O149,2011-09-04T15:40:22,lab_result,Sodium,137.96
+R486,O149,2011-09-04T15:43:22,lab_result,Potassium,3.94
+R487,O149,2011-09-04T15:34:22,lab_result,Chloride,102.69
+R488,O149,2011-09-04T15:38:22,lab_result,BUN,13.69
+R489,O149,2011-09-04T15:42:22,lab_result,Creatinine,1.02
+R490,O149,2011-09-04T15:39:22,lab_result,AST,11.46
+R491,O149,2011-09-04T15:40:22,lab_result,ALT,14.89
+R492,O149,2011-09-04T15:35:22,lab_result,Alkaline phosphatase,64.95
+R493,O149,2011-09-04T15:35:22,lab_result,Total bilirubin,0.25
+R494,O150,2015-12-04T23:26:00,lab_result,Hemoglobin,17.29
+R495,O150,2015-12-04T23:25:00,lab_result,Hematocrit,36.12
+R496,O150,2015-12-04T23:20:00,lab_result,White Blood Cell Count,9.01
+R497,O152,2015-01-27T19:34:50,lab_result,Hemoglobin,16.96
+R498,O152,2015-01-27T19:33:50,lab_result,Hematocrit,42.96
+R499,O152,2015-01-27T19:37:50,lab_result,White Blood Cell Count,4.74
+R500,O153,2015-02-01T00:26:18,image_result,Abdomen,0.87
+R501,O153,2015-02-01T00:36:18,image_result,Pelvis,0.89
+R502,O153,2015-02-01T00:20:18,image_result,Carotid,0.36
+R503,O153,2015-01-31T23:42:18,image_result,Thyroid,0.2
+R504,O153,2015-02-01T00:53:18,image_result,Scrotum,0.73
+R505,O156,2010-10-20T16:05:36,image_result,Abdomen,0.05
+R506,O156,2010-10-20T16:07:36,image_result,Pelvis,0.68
+R507,O156,2010-10-20T15:58:36,image_result,Carotid,0.15
+R508,O156,2010-10-20T15:44:36,image_result,Thyroid,0.72
+R509,O156,2010-10-20T15:17:36,image_result,Scrotum,0.42
+R510,O157,2010-10-22T01:52:47,image_result,Brain,0.9
+R511,O157,2010-10-22T01:43:47,image_result,Lumbar spine,0.92
+R512,O157,2010-10-22T02:12:47,image_result,Cervical spine,0.35
+R513,O157,2010-10-22T00:48:47,image_result,Knee,0.36
+R514,O157,2010-10-22T01:15:47,image_result,Shoulder,0.19
+R515,O160,2011-01-27T06:04:57,image_result,Chest,1.0
+R516,O160,2011-01-27T06:29:57,image_result,Abdomen,0.33
+R517,O160,2011-01-27T05:29:57,image_result,Pelvis,0.87
+R518,O160,2011-01-27T05:10:57,image_result,Lumbar spine,0.99
+R519,O160,2011-01-27T06:13:57,image_result,Knee,0.37
+R520,O160,2011-01-27T06:19:57,image_result,Wrist,0.23
+R521,O162,2023-07-30T07:14:26,image_result,Brain,0.22
+R522,O162,2023-07-30T07:17:26,image_result,Lumbar spine,0.71
+R523,O162,2023-07-30T07:32:26,image_result,Cervical spine,0.65
+R524,O162,2023-07-30T07:11:26,image_result,Knee,0.61
+R525,O162,2023-07-30T06:46:26,image_result,Shoulder,0.9
+R526,O164,2014-09-28T07:20:14,lab_result,Sodium,144.17
+R527,O164,2014-09-28T07:22:14,lab_result,Potassium,3.68
+R528,O164,2014-09-28T07:24:14,lab_result,Chloride,104.79
+R529,O164,2014-09-28T07:29:14,lab_result,BUN,12.25
+R530,O164,2014-09-28T07:29:14,lab_result,Creatinine,1.3
+R531,O166,2014-09-27T14:00:59,image_result,Abdomen,0.56
+R532,O166,2014-09-27T15:06:59,image_result,Pelvis,0.15
+R533,O166,2014-09-27T14:50:59,image_result,Carotid,0.43
+R534,O166,2014-09-27T14:16:59,image_result,Thyroid,0.69
+R535,O166,2014-09-27T15:00:59,image_result,Scrotum,0.92
+R536,O170,2016-10-14T22:21:35,lab_result,Hemoglobin,13.61
+R537,O170,2016-10-14T22:15:35,lab_result,Hematocrit,41.86
+R538,O170,2016-10-14T22:18:35,lab_result,White Blood Cell Count,8.02
+R539,O173,2006-08-04T09:58:11,image_result,Chest,0.82
+R540,O173,2006-08-04T09:15:11,image_result,Abdomen,0.15
+R541,O173,2006-08-04T09:11:11,image_result,Pelvis,0.73
+R542,O173,2006-08-04T09:06:11,image_result,Lumbar spine,0.73
+R543,O173,2006-08-04T09:13:11,image_result,Knee,0.76
+R544,O173,2006-08-04T09:14:11,image_result,Wrist,0.67
+R545,O174,2006-07-31T23:51:01,image_result,Brain,0.71
+R546,O174,2006-08-01T00:52:01,image_result,Lumbar spine,0.47
+R547,O174,2006-08-01T00:57:01,image_result,Cervical spine,0.38
+R548,O174,2006-08-01T00:09:01,image_result,Knee,0.32
+R549,O174,2006-08-01T00:13:01,image_result,Shoulder,0.84
+R550,O177,2009-01-30T09:34:44,image_result,Abdomen,0.52
+R551,O177,2009-01-30T10:39:44,image_result,Pelvis,0.54
+R552,O177,2009-01-30T10:32:44,image_result,Carotid,0.64
+R553,O177,2009-01-30T10:06:44,image_result,Thyroid,0.02
+R554,O177,2009-01-30T09:19:44,image_result,Scrotum,0.05
+R555,O178,2009-01-29T19:44:22,image_result,Chest,0.71
+R556,O178,2009-01-29T20:13:22,image_result,Abdomen,0.56
+R557,O178,2009-01-29T20:13:22,image_result,Pelvis,0.01
+R558,O178,2009-01-29T19:25:22,image_result,Lumbar spine,0.68
+R559,O178,2009-01-29T19:33:22,image_result,Knee,0.67
+R560,O178,2009-01-29T19:12:22,image_result,Wrist,0.59
+R561,O180,2009-01-29T13:30:00,image_result,Brain,0.48
+R562,O180,2009-01-29T13:34:00,image_result,Lumbar spine,0.23
+R563,O180,2009-01-29T14:14:00,image_result,Cervical spine,0.5
+R564,O180,2009-01-29T13:35:00,image_result,Knee,0.93
+R565,O180,2009-01-29T13:22:00,image_result,Shoulder,0.95
+R566,O181,2012-08-08T02:29:34,image_result,Brain,0.85
+R567,O181,2012-08-08T02:56:34,image_result,Lumbar spine,0.94
+R568,O181,2012-08-08T03:14:34,image_result,Cervical spine,0.1
+R569,O181,2012-08-08T02:37:34,image_result,Knee,0.6
+R570,O181,2012-08-08T03:18:34,image_result,Shoulder,0.01
+R571,O182,2012-08-07T23:27:17,lab_result,Sodium,140.97
+R572,O182,2012-08-07T23:31:17,lab_result,Potassium,4.58
+R573,O182,2012-08-07T23:28:17,lab_result,Chloride,102.87
+R574,O182,2012-08-07T23:30:17,lab_result,BUN,13.73
+R575,O182,2012-08-07T23:24:17,lab_result,Creatinine,0.88
+R576,O182,2012-08-07T23:30:17,lab_result,AST,16.35
+R577,O182,2012-08-07T23:28:17,lab_result,ALT,31.69
+R578,O182,2012-08-07T23:27:17,lab_result,Alkaline phosphatase,73.83
+R579,O182,2012-08-07T23:26:17,lab_result,Total bilirubin,1.19
+R580,O183,2012-08-08T21:15:30,image_result,Chest,0.35
+R581,O183,2012-08-08T20:57:30,image_result,Abdomen,0.26
+R582,O183,2012-08-08T20:37:30,image_result,Pelvis,0.99
+R583,O183,2012-08-08T20:50:30,image_result,Lumbar spine,0.82
+R584,O183,2012-08-08T20:48:30,image_result,Knee,0.03
+R585,O183,2012-08-08T20:40:30,image_result,Wrist,0.38
+R586,O184,2012-08-11T01:40:03,lab_result,Sodium,136.14
+R587,O184,2012-08-11T01:39:03,lab_result,Potassium,3.51
+R588,O184,2012-08-11T01:45:03,lab_result,Chloride,102.12
+R589,O184,2012-08-11T01:37:03,lab_result,BUN,7.55
+R590,O184,2012-08-11T01:45:03,lab_result,Creatinine,1.27
+R591,O185,2012-08-12T10:59:43,image_result,Abdomen,0.6
+R592,O185,2012-08-12T10:47:43,image_result,Pelvis,0.14
+R593,O185,2012-08-12T10:29:43,image_result,Carotid,0.81
+R594,O185,2012-08-12T10:41:43,image_result,Thyroid,0.64
+R595,O185,2012-08-12T11:00:43,image_result,Scrotum,0.44
+R596,O186,2020-08-07T10:58:31,lab_result,Hemoglobin,12.7
+R597,O186,2020-08-07T11:03:31,lab_result,Hematocrit,42.56
+R598,O186,2020-08-07T10:58:31,lab_result,White Blood Cell Count,8.23
+R599,O188,2020-08-06T23:44:16,lab_result,Sodium,135.23
+R600,O188,2020-08-06T23:38:16,lab_result,Potassium,4.62
+R601,O188,2020-08-06T23:40:16,lab_result,Chloride,100.16
+R602,O188,2020-08-06T23:42:16,lab_result,BUN,9.73
+R603,O188,2020-08-06T23:45:16,lab_result,Creatinine,1.0
+R604,O189,2006-10-20T13:40:27,lab_result,Sodium,143.1
+R605,O189,2006-10-20T13:46:27,lab_result,Potassium,4.27
+R606,O189,2006-10-20T13:43:27,lab_result,Chloride,99.24
+R607,O189,2006-10-20T13:44:27,lab_result,BUN,7.18
+R608,O189,2006-10-20T13:46:27,lab_result,Creatinine,0.81
+R609,O190,2006-10-23T00:00:45,lab_result,Sodium,136.76
+R610,O190,2006-10-23T00:04:45,lab_result,Potassium,4.19
+R611,O190,2006-10-23T00:01:45,lab_result,Chloride,104.01
+R612,O190,2006-10-22T23:58:45,lab_result,BUN,16.72
+R613,O190,2006-10-23T00:07:45,lab_result,Creatinine,1.1
+R614,O192,2007-12-12T08:36:41,lab_result,Sodium,143.44
+R615,O192,2007-12-12T08:31:41,lab_result,Potassium,4.83
+R616,O192,2007-12-12T08:32:41,lab_result,Chloride,96.63
+R617,O192,2007-12-12T08:31:41,lab_result,BUN,17.8
+R618,O192,2007-12-12T08:39:41,lab_result,Creatinine,0.99
+R619,O192,2007-12-12T08:37:41,lab_result,AST,26.22
+R620,O192,2007-12-12T08:34:41,lab_result,ALT,42.35
+R621,O192,2007-12-12T08:29:41,lab_result,Alkaline phosphatase,103.27
+R622,O192,2007-12-12T08:29:41,lab_result,Total bilirubin,1.11
+R623,O193,2019-11-09T18:27:00,image_result,Abdomen,0.39
+R624,O193,2019-11-09T18:00:00,image_result,Pelvis,0.1
+R625,O193,2019-11-09T18:42:00,image_result,Carotid,0.6
+R626,O193,2019-11-09T17:56:00,image_result,Thyroid,0.08
+R627,O193,2019-11-09T18:25:00,image_result,Scrotum,0.18
+R628,O195,2019-04-02T12:04:03,lab_result,Hemoglobin,13.95
+R629,O195,2019-04-02T12:04:03,lab_result,Hematocrit,44.56
+R630,O195,2019-04-02T12:11:03,lab_result,White Blood Cell Count,7.71
+R631,O197,2017-05-16T17:39:13,image_result,Brain,0.51
+R632,O197,2017-05-16T18:01:13,image_result,Lumbar spine,0.44
+R633,O197,2017-05-16T18:59:13,image_result,Cervical spine,0.92
+R634,O197,2017-05-16T18:37:13,image_result,Knee,0.95
+R635,O197,2017-05-16T18:32:13,image_result,Shoulder,0.3
+R636,O199,2017-05-16T17:39:41,image_result,Brain,0.13
+R637,O199,2017-05-16T17:53:41,image_result,Lumbar spine,0.23
+R638,O199,2017-05-16T18:29:41,image_result,Cervical spine,0.38
+R639,O199,2017-05-16T18:23:41,image_result,Knee,0.9
+R640,O199,2017-05-16T17:43:41,image_result,Shoulder,0.46
+R641,O200,2017-05-17T04:32:43,lab_result,Sodium,136.94
+R642,O200,2017-05-17T04:26:43,lab_result,Potassium,4.32
+R643,O200,2017-05-17T04:22:43,lab_result,Chloride,96.25
+R644,O200,2017-05-17T04:32:43,lab_result,BUN,18.33
+R645,O200,2017-05-17T04:31:43,lab_result,Creatinine,1.02
+R646,O200,2017-05-17T04:26:43,lab_result,AST,23.85
+R647,O200,2017-05-17T04:27:43,lab_result,ALT,38.82
+R648,O200,2017-05-17T04:26:43,lab_result,Alkaline phosphatase,72.13
+R649,O200,2017-05-17T04:27:43,lab_result,Total bilirubin,0.91
+R650,O202,2014-09-09T19:21:28,lab_result,Sodium,144.15
+R651,O202,2014-09-09T19:19:28,lab_result,Potassium,4.96
+R652,O202,2014-09-09T19:20:28,lab_result,Chloride,104.56
+R653,O202,2014-09-09T19:23:28,lab_result,BUN,19.45
+R654,O202,2014-09-09T19:21:28,lab_result,Creatinine,1.04
+R655,O202,2014-09-09T19:20:28,lab_result,AST,36.18
+R656,O202,2014-09-09T19:13:28,lab_result,ALT,20.1
+R657,O202,2014-09-09T19:23:28,lab_result,Alkaline phosphatase,85.56
+R658,O202,2014-09-09T19:14:28,lab_result,Total bilirubin,0.44
+R659,O203,2014-09-09T17:14:49,image_result,Abdomen,0.91
+R660,O203,2014-09-09T17:31:49,image_result,Pelvis,0.22
+R661,O203,2014-09-09T18:41:49,image_result,Carotid,0.26
+R662,O203,2014-09-09T17:16:49,image_result,Thyroid,0.3
+R663,O203,2014-09-09T18:41:49,image_result,Scrotum,0.64
+R664,O204,2014-09-09T22:47:55,lab_result,Sodium,138.57
+R665,O204,2014-09-09T22:44:55,lab_result,Potassium,4.5
+R666,O204,2014-09-09T22:47:55,lab_result,Chloride,101.59
+R667,O204,2014-09-09T22:52:55,lab_result,BUN,15.49
+R668,O204,2014-09-09T22:51:55,lab_result,Creatinine,1.14
+R669,O204,2014-09-09T22:50:55,lab_result,AST,23.68
+R670,O204,2014-09-09T22:46:55,lab_result,ALT,12.31
+R671,O204,2014-09-09T22:51:55,lab_result,Alkaline phosphatase,91.86
+R672,O204,2014-09-09T22:45:55,lab_result,Total bilirubin,0.16
+R673,O205,2019-09-19T06:50:14,lab_result,Hemoglobin,17.16
+R674,O205,2019-09-19T06:41:14,lab_result,Hematocrit,44.94
+R675,O205,2019-09-19T06:40:14,lab_result,White Blood Cell Count,6.41
+R676,O206,2019-09-18T22:06:23,lab_result,Sodium,137.6
+R677,O206,2019-09-18T22:13:23,lab_result,Potassium,4.62
+R678,O206,2019-09-18T22:11:23,lab_result,Chloride,103.29
+R679,O206,2019-09-18T22:14:23,lab_result,BUN,10.72
+R680,O206,2019-09-18T22:07:23,lab_result,Creatinine,1.22
+R681,O207,2019-09-17T04:28:10,image_result,Abdomen,0.44
+R682,O207,2019-09-17T05:12:10,image_result,Pelvis,0.42
+R683,O207,2019-09-17T05:36:10,image_result,Carotid,0.91
+R684,O207,2019-09-17T05:18:10,image_result,Thyroid,0.9
+R685,O207,2019-09-17T04:23:10,image_result,Scrotum,0.31
+R686,O208,2016-05-23T10:46:41,image_result,Brain,0.44
+R687,O208,2016-05-23T11:11:41,image_result,Lumbar spine,0.4
+R688,O208,2016-05-23T10:46:41,image_result,Cervical spine,0.65
+R689,O208,2016-05-23T11:49:41,image_result,Knee,0.45
+R690,O208,2016-05-23T10:39:41,image_result,Shoulder,0.48
+R691,O209,2016-05-25T16:30:20,image_result,Brain,0.78
+R692,O209,2016-05-25T16:04:20,image_result,Lumbar spine,0.95
+R693,O209,2016-05-25T16:08:20,image_result,Cervical spine,0.58
+R694,O209,2016-05-25T16:31:20,image_result,Knee,0.26
+R695,O209,2016-05-25T16:02:20,image_result,Shoulder,0.59
+R696,O210,2016-05-26T21:19:27,image_result,Brain,0.96
+R697,O210,2016-05-26T22:43:27,image_result,Lumbar spine,0.16
+R698,O210,2016-05-26T21:32:27,image_result,Cervical spine,0.03
+R699,O210,2016-05-26T22:10:27,image_result,Knee,0.15
+R700,O210,2016-05-26T22:11:27,image_result,Shoulder,0.36
+R701,O213,2012-07-21T03:50:09,image_result,Abdomen,0.13
+R702,O213,2012-07-21T03:07:09,image_result,Pelvis,0.55
+R703,O213,2012-07-21T03:16:09,image_result,Carotid,0.49
+R704,O213,2012-07-21T02:36:09,image_result,Thyroid,0.23
+R705,O213,2012-07-21T03:43:09,image_result,Scrotum,0.04
+R706,O214,2012-07-21T05:11:03,image_result,Abdomen,0.18
+R707,O214,2012-07-21T05:07:03,image_result,Pelvis,0.65
+R708,O214,2012-07-21T04:54:03,image_result,Carotid,0.28
+R709,O214,2012-07-21T04:37:03,image_result,Thyroid,0.74
+R710,O214,2012-07-21T04:31:03,image_result,Scrotum,0.77
+R711,O217,2007-02-09T03:15:23,lab_result,Hemoglobin,16.02
+R712,O217,2007-02-09T03:16:23,lab_result,Hematocrit,36.79
+R713,O217,2007-02-09T03:19:23,lab_result,White Blood Cell Count,5.57
+R714,O218,2007-02-09T13:00:48,image_result,Abdomen,0.16
+R715,O218,2007-02-09T12:10:48,image_result,Pelvis,0.68
+R716,O218,2007-02-09T12:05:48,image_result,Carotid,0.87
+R717,O218,2007-02-09T12:50:48,image_result,Thyroid,0.26
+R718,O218,2007-02-09T11:35:48,image_result,Scrotum,0.44
+R719,O223,2001-06-06T11:21:22,lab_result,Hemoglobin,15.19
+R720,O223,2001-06-06T11:18:22,lab_result,Hematocrit,35.54
+R721,O223,2001-06-06T11:18:22,lab_result,White Blood Cell Count,5.62
+R722,O226,2007-09-09T22:47:14,image_result,Brain,0.23
+R723,O226,2007-09-09T23:03:14,image_result,Lumbar spine,0.87
+R724,O226,2007-09-09T23:46:14,image_result,Cervical spine,0.76
+R725,O226,2007-09-09T23:32:14,image_result,Knee,0.19
+R726,O226,2007-09-09T23:28:14,image_result,Shoulder,0.94
+R727,O227,2015-11-12T21:05:11,image_result,Chest,0.4
+R728,O227,2015-11-12T21:24:11,image_result,Abdomen,0.3
+R729,O227,2015-11-12T20:49:11,image_result,Pelvis,0.77
+R730,O227,2015-11-12T21:24:11,image_result,Lumbar spine,0.45
+R731,O227,2015-11-12T21:47:11,image_result,Knee,0.81
+R732,O227,2015-11-12T21:00:11,image_result,Wrist,0.89
+R733,O228,2002-04-10T16:03:16,image_result,Brain,0.44
+R734,O228,2002-04-10T16:04:16,image_result,Lumbar spine,0.98
+R735,O228,2002-04-10T16:04:16,image_result,Cervical spine,0.94
+R736,O228,2002-04-10T16:08:16,image_result,Knee,0.9
+R737,O228,2002-04-10T15:51:16,image_result,Shoulder,0.21
+R738,O229,2002-04-05T11:05:36,image_result,Chest,0.07
+R739,O229,2002-04-05T10:35:36,image_result,Abdomen,0.57
+R740,O229,2002-04-05T11:32:36,image_result,Pelvis,0.52
+R741,O229,2002-04-05T11:30:36,image_result,Lumbar spine,0.63
+R742,O229,2002-04-05T10:58:36,image_result,Knee,0.63
+R743,O229,2002-04-05T10:55:36,image_result,Wrist,0.37
+R744,O231,2014-04-02T17:11:49,image_result,Brain,0.81
+R745,O231,2014-04-02T18:03:49,image_result,Lumbar spine,0.11
+R746,O231,2014-04-02T17:46:49,image_result,Cervical spine,0.02
+R747,O231,2014-04-02T17:58:49,image_result,Knee,0.01
+R748,O231,2014-04-02T17:16:49,image_result,Shoulder,0.27
+R749,O233,2001-04-29T12:03:52,image_result,Abdomen,0.72
+R750,O233,2001-04-29T11:35:52,image_result,Pelvis,0.14
+R751,O233,2001-04-29T12:31:52,image_result,Carotid,0.14
+R752,O233,2001-04-29T12:50:52,image_result,Thyroid,0.96
+R753,O233,2001-04-29T12:57:52,image_result,Scrotum,0.2
+R754,O235,2007-06-15T21:06:20,lab_result,Sodium,138.83
+R755,O235,2007-06-15T21:08:20,lab_result,Potassium,4.62
+R756,O235,2007-06-15T21:07:20,lab_result,Chloride,101.94
+R757,O235,2007-06-15T21:01:20,lab_result,BUN,10.85
+R758,O235,2007-06-15T21:07:20,lab_result,Creatinine,1.28
+R759,O237,2007-06-16T10:04:53,image_result,Chest,0.76
+R760,O237,2007-06-16T10:09:53,image_result,Abdomen,0.63
+R761,O237,2007-06-16T11:21:53,image_result,Pelvis,0.13
+R762,O237,2007-06-16T11:22:53,image_result,Lumbar spine,0.29
+R763,O237,2007-06-16T11:00:53,image_result,Knee,0.2
+R764,O237,2007-06-16T10:26:53,image_result,Wrist,0.3
+R765,O239,2014-08-10T15:52:07,lab_result,Sodium,142.39
+R766,O239,2014-08-10T15:53:07,lab_result,Potassium,5.09
+R767,O239,2014-08-10T15:50:07,lab_result,Chloride,100.23
+R768,O239,2014-08-10T15:45:07,lab_result,BUN,10.98
+R769,O239,2014-08-10T15:49:07,lab_result,Creatinine,1.16
+R770,O240,2014-08-10T14:57:06,lab_result,Sodium,144.97
+R771,O240,2014-08-10T15:00:06,lab_result,Potassium,3.51
+R772,O240,2014-08-10T15:00:06,lab_result,Chloride,100.93
+R773,O240,2014-08-10T14:57:06,lab_result,BUN,14.43
+R774,O240,2014-08-10T14:56:06,lab_result,Creatinine,0.89
+R775,O241,2014-08-11T16:35:48,lab_result,Hemoglobin,14.87
+R776,O241,2014-08-11T16:35:48,lab_result,Hematocrit,46.09
+R777,O241,2014-08-11T16:40:48,lab_result,White Blood Cell Count,4.75
+R778,O244,2021-04-06T07:32:56,image_result,Abdomen,0.53
+R779,O244,2021-04-06T07:57:56,image_result,Pelvis,0.13
+R780,O244,2021-04-06T08:42:56,image_result,Carotid,0.99
+R781,O244,2021-04-06T08:43:56,image_result,Thyroid,0.84
+R782,O244,2021-04-06T08:08:56,image_result,Scrotum,0.76
+R783,O245,2021-04-06T03:09:13,image_result,Abdomen,0.83
+R784,O245,2021-04-06T02:19:13,image_result,Pelvis,0.84
+R785,O245,2021-04-06T03:21:13,image_result,Carotid,0.79
+R786,O245,2021-04-06T02:30:13,image_result,Thyroid,0.02
+R787,O245,2021-04-06T02:00:13,image_result,Scrotum,0.58
+R788,O248,2016-07-26T19:45:07,image_result,Abdomen,0.52
+R789,O248,2016-07-26T19:46:07,image_result,Pelvis,0.12
+R790,O248,2016-07-26T20:31:07,image_result,Carotid,0.88
+R791,O248,2016-07-26T20:44:07,image_result,Thyroid,0.22
+R792,O248,2016-07-26T19:48:07,image_result,Scrotum,0.31
+R793,O249,2016-07-30T09:33:31,lab_result,Sodium,142.28
+R794,O249,2016-07-30T09:35:31,lab_result,Potassium,3.6
+R795,O249,2016-07-30T09:31:31,lab_result,Chloride,97.68
+R796,O249,2016-07-30T09:33:31,lab_result,BUN,19.3
+R797,O249,2016-07-30T09:29:31,lab_result,Creatinine,1.03
+R798,O250,2016-07-31T06:09:09,image_result,Brain,0.99
+R799,O250,2016-07-31T06:01:09,image_result,Lumbar spine,0.07
+R800,O250,2016-07-31T05:50:09,image_result,Cervical spine,0.56
+R801,O250,2016-07-31T06:30:09,image_result,Knee,0.83
+R802,O250,2016-07-31T06:45:09,image_result,Shoulder,0.21
+R803,O252,2016-07-29T21:13:59,lab_result,Sodium,141.59
+R804,O252,2016-07-29T21:07:59,lab_result,Potassium,4.51
+R805,O252,2016-07-29T21:13:59,lab_result,Chloride,104.02
+R806,O252,2016-07-29T21:08:59,lab_result,BUN,18.56
+R807,O252,2016-07-29T21:10:59,lab_result,Creatinine,1.0
+R808,O253,2014-07-28T12:38:47,lab_result,Hemoglobin,13.54
+R809,O253,2014-07-28T12:48:47,lab_result,Hematocrit,43.23
+R810,O253,2014-07-28T12:42:47,lab_result,White Blood Cell Count,6.74
+R811,O254,2014-07-27T18:58:36,lab_result,Hemoglobin,14.99
+R812,O254,2014-07-27T18:51:36,lab_result,Hematocrit,39.24
+R813,O254,2014-07-27T18:51:36,lab_result,White Blood Cell Count,5.02
+R814,O259,2000-11-09T21:55:20,image_result,Chest,0.23
+R815,O259,2000-11-09T21:21:20,image_result,Abdomen,0.81
+R816,O259,2000-11-09T20:58:20,image_result,Pelvis,0.29
+R817,O259,2000-11-09T21:20:20,image_result,Lumbar spine,0.37
+R818,O259,2000-11-09T21:13:20,image_result,Knee,0.62
+R819,O259,2000-11-09T21:35:20,image_result,Wrist,0.77
+R820,O263,2014-03-21T09:51:55,image_result,Chest,0.41
+R821,O263,2014-03-21T10:50:55,image_result,Abdomen,0.84
+R822,O263,2014-03-21T10:06:55,image_result,Pelvis,0.15
+R823,O263,2014-03-21T10:11:55,image_result,Lumbar spine,0.16
+R824,O263,2014-03-21T10:23:55,image_result,Knee,0.9
+R825,O263,2014-03-21T09:53:55,image_result,Wrist,0.45
+R826,O265,2021-04-03T08:31:05,lab_result,Hemoglobin,13.54
+R827,O265,2021-04-03T08:33:05,lab_result,Hematocrit,46.83
+R828,O265,2021-04-03T08:26:05,lab_result,White Blood Cell Count,8.17
+R829,O267,2015-07-07T11:21:57,lab_result,Sodium,138.35
+R830,O267,2015-07-07T11:13:57,lab_result,Potassium,4.69
+R831,O267,2015-07-07T11:15:57,lab_result,Chloride,102.7
+R832,O267,2015-07-07T11:15:57,lab_result,BUN,15.06
+R833,O267,2015-07-07T11:11:57,lab_result,Creatinine,0.93
+R834,O268,2015-07-06T20:43:23,image_result,Abdomen,0.71
+R835,O268,2015-07-06T20:29:23,image_result,Pelvis,0.07
+R836,O268,2015-07-06T21:32:23,image_result,Carotid,0.02
+R837,O268,2015-07-06T20:29:23,image_result,Thyroid,0.31
+R838,O268,2015-07-06T21:24:23,image_result,Scrotum,0.92
+R839,O271,2021-05-31T17:35:58,image_result,Abdomen,0.09
+R840,O271,2021-05-31T17:36:58,image_result,Pelvis,0.99
+R841,O271,2021-05-31T17:25:58,image_result,Carotid,0.63
+R842,O271,2021-05-31T17:09:58,image_result,Thyroid,0.26
+R843,O271,2021-05-31T18:12:58,image_result,Scrotum,0.6
+R844,O272,2013-10-28T03:07:02,lab_result,Sodium,144.56
+R845,O272,2013-10-28T03:01:02,lab_result,Potassium,4.98
+R846,O272,2013-10-28T03:01:02,lab_result,Chloride,104.03
+R847,O272,2013-10-28T03:04:02,lab_result,BUN,14.02
+R848,O272,2013-10-28T03:01:02,lab_result,Creatinine,1.05
+R849,O272,2013-10-28T03:01:02,lab_result,AST,15.25
+R850,O272,2013-10-28T03:03:02,lab_result,ALT,30.12
+R851,O272,2013-10-28T03:06:02,lab_result,Alkaline phosphatase,89.95
+R852,O272,2013-10-28T02:59:02,lab_result,Total bilirubin,0.7
+R853,O273,2013-10-24T06:48:48,image_result,Chest,0.91
+R854,O273,2013-10-24T06:35:48,image_result,Abdomen,0.31
+R855,O273,2013-10-24T07:28:48,image_result,Pelvis,0.46
+R856,O273,2013-10-24T07:35:48,image_result,Lumbar spine,0.64
+R857,O273,2013-10-24T07:43:48,image_result,Knee,0.67
+R858,O273,2013-10-24T07:52:48,image_result,Wrist,0.87
+R859,O275,2013-10-27T16:00:05,lab_result,Hemoglobin,15.34
+R860,O275,2013-10-27T15:55:05,lab_result,Hematocrit,41.27
+R861,O275,2013-10-27T15:50:05,lab_result,White Blood Cell Count,4.32
+R862,O278,2014-01-31T21:48:25,image_result,Brain,0.02
+R863,O278,2014-01-31T22:41:25,image_result,Lumbar spine,0.46
+R864,O278,2014-01-31T23:07:25,image_result,Cervical spine,0.8
+R865,O278,2014-01-31T22:50:25,image_result,Knee,0.82
+R866,O278,2014-01-31T22:50:25,image_result,Shoulder,0.54
+R867,O279,2014-01-30T16:39:19,image_result,Chest,0.34
+R868,O279,2014-01-30T17:29:19,image_result,Abdomen,0.18
+R869,O279,2014-01-30T17:15:19,image_result,Pelvis,0.07
+R870,O279,2014-01-30T17:14:19,image_result,Lumbar spine,0.2
+R871,O279,2014-01-30T17:31:19,image_result,Knee,0.83
+R872,O279,2014-01-30T16:55:19,image_result,Wrist,0.86
+R873,O281,2003-07-29T10:19:54,image_result,Chest,0.5
+R874,O281,2003-07-29T09:44:54,image_result,Abdomen,0.17
+R875,O281,2003-07-29T10:31:54,image_result,Pelvis,0.97
+R876,O281,2003-07-29T10:25:54,image_result,Lumbar spine,0.04
+R877,O281,2003-07-29T10:15:54,image_result,Knee,0.86
+R878,O281,2003-07-29T10:33:54,image_result,Wrist,0.3
+R879,O283,2000-02-03T07:23:17,image_result,Brain,0.53
+R880,O283,2000-02-03T07:00:17,image_result,Lumbar spine,0.47
+R881,O283,2000-02-03T07:14:17,image_result,Cervical spine,0.13
+R882,O283,2000-02-03T07:57:17,image_result,Knee,0.39
+R883,O283,2000-02-03T07:10:17,image_result,Shoulder,0.57
+R884,O285,2000-02-02T04:43:45,image_result,Abdomen,0.01
+R885,O285,2000-02-02T03:53:45,image_result,Pelvis,0.75
+R886,O285,2000-02-02T04:21:45,image_result,Carotid,0.64
+R887,O285,2000-02-02T03:31:45,image_result,Thyroid,0.51
+R888,O285,2000-02-02T03:58:45,image_result,Scrotum,0.05
+R889,O286,2000-02-06T00:49:17,lab_result,Hemoglobin,15.41
+R890,O286,2000-02-06T00:53:17,lab_result,Hematocrit,43.63
+R891,O286,2000-02-06T00:44:17,lab_result,White Blood Cell Count,5.11

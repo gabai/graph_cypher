@@ -1,0 +1,314 @@
+resultID,orderID,timestamp,result_type,result_name,result_value
+R004,O004,2003-05-13T03:48:22,lab_result,Hemoglobin,13.43
+R004,O004,2003-05-13T03:45:22,lab_result,Hematocrit,46.12
+R004,O004,2003-05-13T03:51:22,lab_result,White Blood Cell Count,6.71
+R012,O012,2021-08-06T22:49:22,lab_result,Sodium,143.65
+R012,O012,2021-08-06T22:52:22,lab_result,Potassium,5.02
+R012,O012,2021-08-06T22:50:22,lab_result,Chloride,100.51
+R012,O012,2021-08-06T22:49:22,lab_result,BUN,18.54
+R012,O012,2021-08-06T22:54:22,lab_result,Creatinine,1.07
+R018,O018,2005-07-14T21:18:03,lab_result,Sodium,135.44
+R018,O018,2005-07-14T21:18:03,lab_result,Potassium,4.4
+R018,O018,2005-07-14T21:13:03,lab_result,Chloride,105.29
+R018,O018,2005-07-14T21:09:03,lab_result,BUN,9.6
+R018,O018,2005-07-14T21:11:03,lab_result,Creatinine,1.01
+R022,O022,2018-10-26T04:31:14,lab_result,Sodium,142.51
+R022,O022,2018-10-26T04:23:14,lab_result,Potassium,4.39
+R022,O022,2018-10-26T04:27:14,lab_result,Chloride,96.78
+R022,O022,2018-10-26T04:24:14,lab_result,BUN,12.12
+R022,O022,2018-10-26T04:27:14,lab_result,Creatinine,0.82
+R026,O026,2008-04-25T03:34:20,lab_result,Sodium,144.28
+R026,O026,2008-04-25T03:38:20,lab_result,Potassium,3.93
+R026,O026,2008-04-25T03:33:20,lab_result,Chloride,97.42
+R026,O026,2008-04-25T03:43:20,lab_result,BUN,13.93
+R026,O026,2008-04-25T03:37:20,lab_result,Creatinine,1.06
+R026,O026,2008-04-25T03:43:20,lab_result,AST,14.51
+R026,O026,2008-04-25T03:39:20,lab_result,ALT,27.96
+R026,O026,2008-04-25T03:41:20,lab_result,Alkaline phosphatase,78.03
+R026,O026,2008-04-25T03:37:20,lab_result,Total bilirubin,0.8
+R027,O027,2008-04-27T23:46:29,lab_result,Sodium,135.22
+R027,O027,2008-04-27T23:52:29,lab_result,Potassium,4.7
+R027,O027,2008-04-27T23:54:29,lab_result,Chloride,101.39
+R027,O027,2008-04-27T23:55:29,lab_result,BUN,8.27
+R027,O027,2008-04-27T23:47:29,lab_result,Creatinine,1.15
+R029,O029,2022-03-06T13:10:46,lab_result,Sodium,141.85
+R029,O029,2022-03-06T13:11:46,lab_result,Potassium,3.62
+R029,O029,2022-03-06T13:19:46,lab_result,Chloride,97.92
+R029,O029,2022-03-06T13:16:46,lab_result,BUN,15.07
+R029,O029,2022-03-06T13:18:46,lab_result,Creatinine,1.01
+R032,O032,2022-03-18T21:23:13,lab_result,Hemoglobin,14.62
+R032,O032,2022-03-18T21:26:13,lab_result,Hematocrit,38.13
+R032,O032,2022-03-18T21:23:13,lab_result,White Blood Cell Count,9.04
+R033,O033,2022-08-12T19:48:07,lab_result,Sodium,139.95
+R033,O033,2022-08-12T19:45:07,lab_result,Potassium,5.03
+R033,O033,2022-08-12T19:45:07,lab_result,Chloride,105.4
+R033,O033,2022-08-12T19:44:07,lab_result,BUN,13.42
+R033,O033,2022-08-12T19:50:07,lab_result,Creatinine,0.86
+R033,O033,2022-08-12T19:50:07,lab_result,AST,37.92
+R033,O033,2022-08-12T19:43:07,lab_result,ALT,30.78
+R033,O033,2022-08-12T19:49:07,lab_result,Alkaline phosphatase,55.18
+R033,O033,2022-08-12T19:51:07,lab_result,Total bilirubin,0.51
+R034,O034,2022-08-15T17:25:17,lab_result,Sodium,138.12
+R034,O034,2022-08-15T17:24:17,lab_result,Potassium,3.5
+R034,O034,2022-08-15T17:24:17,lab_result,Chloride,97.79
+R034,O034,2022-08-15T17:23:17,lab_result,BUN,11.73
+R034,O034,2022-08-15T17:19:17,lab_result,Creatinine,0.9
+R034,O034,2022-08-15T17:26:17,lab_result,AST,19.64
+R034,O034,2022-08-15T17:28:17,lab_result,ALT,39.64
+R034,O034,2022-08-15T17:23:17,lab_result,Alkaline phosphatase,64.34
+R034,O034,2022-08-15T17:26:17,lab_result,Total bilirubin,0.8
+R037,O037,2014-08-03T22:50:01,lab_result,Sodium,141.92
+R037,O037,2014-08-03T22:45:01,lab_result,Potassium,3.89
+R037,O037,2014-08-03T22:46:01,lab_result,Chloride,104.3
+R037,O037,2014-08-03T22:44:01,lab_result,BUN,17.45
+R037,O037,2014-08-03T22:48:01,lab_result,Creatinine,1.29
+R038,O038,2014-08-08T10:37:37,lab_result,Sodium,140.09
+R038,O038,2014-08-08T10:34:37,lab_result,Potassium,3.66
+R038,O038,2014-08-08T10:35:37,lab_result,Chloride,100.98
+R038,O038,2014-08-08T10:36:37,lab_result,BUN,12.3
+R038,O038,2014-08-08T10:33:37,lab_result,Creatinine,1.18
+R042,O042,2019-05-09T12:42:46,lab_result,Sodium,136.89
+R042,O042,2019-05-09T12:39:46,lab_result,Potassium,4.13
+R042,O042,2019-05-09T12:38:46,lab_result,Chloride,102.27
+R042,O042,2019-05-09T12:39:46,lab_result,BUN,14.25
+R042,O042,2019-05-09T12:39:46,lab_result,Creatinine,1.0
+R042,O042,2019-05-09T12:47:46,lab_result,AST,13.31
+R042,O042,2019-05-09T12:39:46,lab_result,ALT,9.88
+R042,O042,2019-05-09T12:46:46,lab_result,Alkaline phosphatase,114.47
+R042,O042,2019-05-09T12:48:46,lab_result,Total bilirubin,0.19
+R046,O046,2000-03-05T09:50:38,lab_result,Sodium,144.76
+R046,O046,2000-03-05T09:50:38,lab_result,Potassium,4.45
+R046,O046,2000-03-05T09:49:38,lab_result,Chloride,99.72
+R046,O046,2000-03-05T09:54:38,lab_result,BUN,13.4
+R046,O046,2000-03-05T09:49:38,lab_result,Creatinine,0.96
+R046,O046,2000-03-05T09:53:38,lab_result,AST,16.23
+R046,O046,2000-03-05T09:52:38,lab_result,ALT,23.41
+R046,O046,2000-03-05T09:46:38,lab_result,Alkaline phosphatase,88.22
+R046,O046,2000-03-05T09:44:38,lab_result,Total bilirubin,0.77
+R050,O050,2016-01-03T07:32:57,lab_result,Sodium,144.69
+R050,O050,2016-01-03T07:37:57,lab_result,Potassium,4.4
+R050,O050,2016-01-03T07:34:57,lab_result,Chloride,100.98
+R050,O050,2016-01-03T07:38:57,lab_result,BUN,9.39
+R050,O050,2016-01-03T07:32:57,lab_result,Creatinine,0.82
+R050,O050,2016-01-03T07:30:57,lab_result,AST,25.0
+R050,O050,2016-01-03T07:28:57,lab_result,ALT,43.13
+R050,O050,2016-01-03T07:29:57,lab_result,Alkaline phosphatase,73.51
+R050,O050,2016-01-03T07:35:57,lab_result,Total bilirubin,1.06
+R055,O055,2004-03-15T21:09:23,lab_result,Hemoglobin,12.33
+R055,O055,2004-03-15T21:01:23,lab_result,Hematocrit,39.74
+R055,O055,2004-03-15T20:59:23,lab_result,White Blood Cell Count,5.62
+R056,O056,2001-07-26T10:22:22,lab_result,Sodium,140.33
+R056,O056,2001-07-26T10:20:22,lab_result,Potassium,3.85
+R056,O056,2001-07-26T10:20:22,lab_result,Chloride,99.16
+R056,O056,2001-07-26T10:28:22,lab_result,BUN,18.46
+R056,O056,2001-07-26T10:30:22,lab_result,Creatinine,1.06
+R056,O056,2001-07-26T10:26:22,lab_result,AST,20.28
+R056,O056,2001-07-26T10:21:22,lab_result,ALT,7.1
+R056,O056,2001-07-26T10:26:22,lab_result,Alkaline phosphatase,112.06
+R056,O056,2001-07-26T10:26:22,lab_result,Total bilirubin,1.01
+R061,O061,2019-10-30T03:10:15,lab_result,Sodium,138.51
+R061,O061,2019-10-30T03:04:15,lab_result,Potassium,4.73
+R061,O061,2019-10-30T03:14:15,lab_result,Chloride,102.05
+R061,O061,2019-10-30T03:07:15,lab_result,BUN,17.23
+R061,O061,2019-10-30T03:14:15,lab_result,Creatinine,0.84
+R061,O061,2019-10-30T03:07:15,lab_result,AST,23.71
+R061,O061,2019-10-30T03:09:15,lab_result,ALT,35.19
+R061,O061,2019-10-30T03:12:15,lab_result,Alkaline phosphatase,58.5
+R061,O061,2019-10-30T03:06:15,lab_result,Total bilirubin,0.42
+R065,O065,2003-09-10T10:53:01,lab_result,Sodium,137.33
+R065,O065,2003-09-10T10:51:01,lab_result,Potassium,3.83
+R065,O065,2003-09-10T10:53:01,lab_result,Chloride,99.77
+R065,O065,2003-09-10T10:55:01,lab_result,BUN,10.69
+R065,O065,2003-09-10T10:45:01,lab_result,Creatinine,1.13
+R080,O080,2001-03-29T21:19:19,lab_result,Sodium,135.18
+R080,O080,2001-03-29T21:22:19,lab_result,Potassium,4.26
+R080,O080,2001-03-29T21:26:19,lab_result,Chloride,100.06
+R080,O080,2001-03-29T21:21:19,lab_result,BUN,8.29
+R080,O080,2001-03-29T21:19:19,lab_result,Creatinine,0.83
+R080,O080,2001-03-29T21:20:19,lab_result,AST,24.89
+R080,O080,2001-03-29T21:24:19,lab_result,ALT,51.2
+R080,O080,2001-03-29T21:19:19,lab_result,Alkaline phosphatase,62.24
+R080,O080,2001-03-29T21:23:19,lab_result,Total bilirubin,1.1
+R082,O082,2001-04-02T19:20:12,lab_result,Sodium,136.57
+R082,O082,2001-04-02T19:16:12,lab_result,Potassium,4.06
+R082,O082,2001-04-02T19:23:12,lab_result,Chloride,104.77
+R082,O082,2001-04-02T19:21:12,lab_result,BUN,12.5
+R082,O082,2001-04-02T19:26:12,lab_result,Creatinine,1.16
+R083,O083,2021-10-04T09:23:31,lab_result,Sodium,144.74
+R083,O083,2021-10-04T09:19:31,lab_result,Potassium,4.21
+R083,O083,2021-10-04T09:15:31,lab_result,Chloride,98.24
+R083,O083,2021-10-04T09:22:31,lab_result,BUN,18.57
+R083,O083,2021-10-04T09:20:31,lab_result,Creatinine,0.92
+R083,O083,2021-10-04T09:23:31,lab_result,AST,22.09
+R083,O083,2021-10-04T09:23:31,lab_result,ALT,43.71
+R083,O083,2021-10-04T09:21:31,lab_result,Alkaline phosphatase,82.99
+R083,O083,2021-10-04T09:25:31,lab_result,Total bilirubin,0.96
+R084,O084,2021-10-05T23:21:27,lab_result,Sodium,140.84
+R084,O084,2021-10-05T23:24:27,lab_result,Potassium,4.91
+R084,O084,2021-10-05T23:21:27,lab_result,Chloride,98.02
+R084,O084,2021-10-05T23:26:27,lab_result,BUN,16.97
+R084,O084,2021-10-05T23:27:27,lab_result,Creatinine,1.09
+R086,O086,2005-08-24T16:47:11,lab_result,Sodium,138.85
+R086,O086,2005-08-24T16:47:11,lab_result,Potassium,3.76
+R086,O086,2005-08-24T16:57:11,lab_result,Chloride,100.53
+R086,O086,2005-08-24T16:47:11,lab_result,BUN,12.31
+R086,O086,2005-08-24T16:53:11,lab_result,Creatinine,1.23
+R086,O086,2005-08-24T16:54:11,lab_result,AST,23.12
+R086,O086,2005-08-24T16:53:11,lab_result,ALT,40.34
+R086,O086,2005-08-24T16:48:11,lab_result,Alkaline phosphatase,79.23
+R086,O086,2005-08-24T16:55:11,lab_result,Total bilirubin,1.16
+R088,O088,2005-08-21T01:49:32,lab_result,Sodium,137.57
+R088,O088,2005-08-21T01:53:32,lab_result,Potassium,3.92
+R088,O088,2005-08-21T01:48:32,lab_result,Chloride,102.49
+R088,O088,2005-08-21T01:46:32,lab_result,BUN,13.17
+R088,O088,2005-08-21T01:48:32,lab_result,Creatinine,0.93
+R093,O093,2000-09-19T14:30:33,lab_result,Sodium,141.4
+R093,O093,2000-09-19T14:22:33,lab_result,Potassium,4.49
+R093,O093,2000-09-19T14:25:33,lab_result,Chloride,104.81
+R093,O093,2000-09-19T14:21:33,lab_result,BUN,15.9
+R093,O093,2000-09-19T14:30:33,lab_result,Creatinine,1.03
+R093,O093,2000-09-19T14:26:33,lab_result,AST,12.14
+R093,O093,2000-09-19T14:30:33,lab_result,ALT,43.11
+R093,O093,2000-09-19T14:25:33,lab_result,Alkaline phosphatase,84.96
+R093,O093,2000-09-19T14:28:33,lab_result,Total bilirubin,0.62
+R096,O096,2016-07-09T01:13:10,lab_result,Hemoglobin,12.0
+R096,O096,2016-07-09T01:15:10,lab_result,Hematocrit,39.81
+R096,O096,2016-07-09T01:07:10,lab_result,White Blood Cell Count,6.11
+R106,O106,2000-09-27T14:19:47,lab_result,Sodium,139.01
+R106,O106,2000-09-27T14:11:47,lab_result,Potassium,4.41
+R106,O106,2000-09-27T14:18:47,lab_result,Chloride,96.39
+R106,O106,2000-09-27T14:11:47,lab_result,BUN,16.08
+R106,O106,2000-09-27T14:17:47,lab_result,Creatinine,0.81
+R106,O106,2000-09-27T14:20:47,lab_result,AST,14.65
+R106,O106,2000-09-27T14:11:47,lab_result,ALT,51.99
+R106,O106,2000-09-27T14:20:47,lab_result,Alkaline phosphatase,105.87
+R106,O106,2000-09-27T14:18:47,lab_result,Total bilirubin,0.8
+R110,O110,2012-08-20T06:19:24,lab_result,Sodium,135.76
+R110,O110,2012-08-20T06:14:24,lab_result,Potassium,4.38
+R110,O110,2012-08-20T06:14:24,lab_result,Chloride,102.0
+R110,O110,2012-08-20T06:19:24,lab_result,BUN,15.6
+R110,O110,2012-08-20T06:18:24,lab_result,Creatinine,1.29
+R110,O110,2012-08-20T06:12:24,lab_result,AST,37.35
+R110,O110,2012-08-20T06:15:24,lab_result,ALT,55.02
+R110,O110,2012-08-20T06:11:24,lab_result,Alkaline phosphatase,85.98
+R110,O110,2012-08-20T06:16:24,lab_result,Total bilirubin,0.54
+R119,O119,2023-01-09T08:57:44,lab_result,Sodium,136.65
+R119,O119,2023-01-09T08:58:44,lab_result,Potassium,3.99
+R119,O119,2023-01-09T08:56:44,lab_result,Chloride,99.45
+R119,O119,2023-01-09T08:59:44,lab_result,BUN,18.66
+R119,O119,2023-01-09T08:59:44,lab_result,Creatinine,0.87
+R119,O119,2023-01-09T09:02:44,lab_result,AST,16.42
+R119,O119,2023-01-09T09:05:44,lab_result,ALT,53.34
+R119,O119,2023-01-09T08:59:44,lab_result,Alkaline phosphatase,56.19
+R119,O119,2023-01-09T08:59:44,lab_result,Total bilirubin,0.12
+R127,O127,2022-08-12T07:23:57,lab_result,Hemoglobin,15.76
+R127,O127,2022-08-12T07:18:57,lab_result,Hematocrit,42.02
+R127,O127,2022-08-12T07:23:57,lab_result,White Blood Cell Count,9.98
+R150,O150,2000-05-10T19:17:33,lab_result,Hemoglobin,13.8
+R150,O150,2000-05-10T19:15:33,lab_result,Hematocrit,38.02
+R150,O150,2000-05-10T19:14:33,lab_result,White Blood Cell Count,4.44
+R151,O151,2000-05-11T13:21:05,lab_result,Sodium,140.81
+R151,O151,2000-05-11T13:25:05,lab_result,Potassium,3.6
+R151,O151,2000-05-11T13:17:05,lab_result,Chloride,99.97
+R151,O151,2000-05-11T13:22:05,lab_result,BUN,14.72
+R151,O151,2000-05-11T13:22:05,lab_result,Creatinine,0.95
+R163,O163,2012-06-29T12:50:26,lab_result,Sodium,136.02
+R163,O163,2012-06-29T12:49:26,lab_result,Potassium,4.88
+R163,O163,2012-06-29T12:58:26,lab_result,Chloride,97.59
+R163,O163,2012-06-29T12:54:26,lab_result,BUN,9.52
+R163,O163,2012-06-29T12:53:26,lab_result,Creatinine,0.95
+R163,O163,2012-06-29T12:59:26,lab_result,AST,14.41
+R163,O163,2012-06-29T12:58:26,lab_result,ALT,20.27
+R163,O163,2012-06-29T12:59:26,lab_result,Alkaline phosphatase,107.71
+R163,O163,2012-06-29T12:49:26,lab_result,Total bilirubin,1.05
+R169,O169,2019-12-16T01:42:53,lab_result,Hemoglobin,17.44
+R169,O169,2019-12-16T01:49:53,lab_result,Hematocrit,48.9
+R169,O169,2019-12-16T01:49:53,lab_result,White Blood Cell Count,7.33
+R173,O173,2010-10-10T10:05:21,lab_result,Sodium,141.71
+R173,O173,2010-10-10T09:57:21,lab_result,Potassium,3.84
+R173,O173,2010-10-10T09:57:21,lab_result,Chloride,96.97
+R173,O173,2010-10-10T10:01:21,lab_result,BUN,18.43
+R173,O173,2010-10-10T10:04:21,lab_result,Creatinine,0.88
+R173,O173,2010-10-10T09:58:21,lab_result,AST,12.9
+R173,O173,2010-10-10T10:03:21,lab_result,ALT,15.68
+R173,O173,2010-10-10T09:57:21,lab_result,Alkaline phosphatase,66.42
+R173,O173,2010-10-10T10:02:21,lab_result,Total bilirubin,0.88
+R176,O176,2014-04-18T00:23:23,lab_result,Sodium,144.13
+R176,O176,2014-04-18T00:19:23,lab_result,Potassium,4.22
+R176,O176,2014-04-18T00:15:23,lab_result,Chloride,96.55
+R176,O176,2014-04-18T00:16:23,lab_result,BUN,19.13
+R176,O176,2014-04-18T00:18:23,lab_result,Creatinine,1.24
+R176,O176,2014-04-18T00:19:23,lab_result,AST,10.61
+R176,O176,2014-04-18T00:21:23,lab_result,ALT,17.96
+R176,O176,2014-04-18T00:16:23,lab_result,Alkaline phosphatase,51.37
+R176,O176,2014-04-18T00:21:23,lab_result,Total bilirubin,0.35
+R180,O180,2012-11-23T23:37:46,lab_result,Sodium,144.8
+R180,O180,2012-11-23T23:37:46,lab_result,Potassium,4.83
+R180,O180,2012-11-23T23:39:46,lab_result,Chloride,99.47
+R180,O180,2012-11-23T23:41:46,lab_result,BUN,14.25
+R180,O180,2012-11-23T23:36:46,lab_result,Creatinine,0.94
+R188,O188,2001-08-13T22:27:18,lab_result,Sodium,135.53
+R188,O188,2001-08-13T22:31:18,lab_result,Potassium,3.81
+R188,O188,2001-08-13T22:30:18,lab_result,Chloride,103.98
+R188,O188,2001-08-13T22:33:18,lab_result,BUN,17.76
+R188,O188,2001-08-13T22:23:18,lab_result,Creatinine,0.88
+R189,O189,2023-01-19T13:02:03,lab_result,Hemoglobin,15.79
+R189,O189,2023-01-19T13:09:03,lab_result,Hematocrit,43.56
+R189,O189,2023-01-19T13:01:03,lab_result,White Blood Cell Count,4.34
+R196,O196,2015-06-24T21:08:05,lab_result,Sodium,141.18
+R196,O196,2015-06-24T21:12:05,lab_result,Potassium,4.93
+R196,O196,2015-06-24T21:05:05,lab_result,Chloride,103.64
+R196,O196,2015-06-24T21:11:05,lab_result,BUN,7.15
+R196,O196,2015-06-24T21:10:05,lab_result,Creatinine,1.14
+R197,O197,2015-06-18T00:27:05,lab_result,Sodium,144.0
+R197,O197,2015-06-18T00:30:05,lab_result,Potassium,4.73
+R197,O197,2015-06-18T00:22:05,lab_result,Chloride,105.01
+R197,O197,2015-06-18T00:31:05,lab_result,BUN,19.48
+R197,O197,2015-06-18T00:26:05,lab_result,Creatinine,0.8
+R197,O197,2015-06-18T00:23:05,lab_result,AST,22.51
+R197,O197,2015-06-18T00:27:05,lab_result,ALT,29.99
+R197,O197,2015-06-18T00:30:05,lab_result,Alkaline phosphatase,71.97
+R197,O197,2015-06-18T00:32:05,lab_result,Total bilirubin,0.39
+R200,O200,2013-06-11T04:00:18,lab_result,Hemoglobin,17.95
+R200,O200,2013-06-11T03:55:18,lab_result,Hematocrit,43.26
+R200,O200,2013-06-11T03:54:18,lab_result,White Blood Cell Count,10.57
+R204,O204,2015-02-03T13:23:49,lab_result,Hemoglobin,17.85
+R204,O204,2015-02-03T13:21:49,lab_result,Hematocrit,36.87
+R204,O204,2015-02-03T13:24:49,lab_result,White Blood Cell Count,4.57
+R206,O206,2015-02-04T10:15:00,lab_result,Sodium,142.38
+R206,O206,2015-02-04T10:11:00,lab_result,Potassium,5.07
+R206,O206,2015-02-04T10:15:00,lab_result,Chloride,98.66
+R206,O206,2015-02-04T10:09:00,lab_result,BUN,15.47
+R206,O206,2015-02-04T10:13:00,lab_result,Creatinine,1.06
+R206,O206,2015-02-04T10:09:00,lab_result,AST,16.52
+R206,O206,2015-02-04T10:06:00,lab_result,ALT,18.28
+R206,O206,2015-02-04T10:14:00,lab_result,Alkaline phosphatase,50.98
+R206,O206,2015-02-04T10:14:00,lab_result,Total bilirubin,0.63
+R212,O212,2018-10-18T05:35:00,lab_result,Hemoglobin,14.01
+R212,O212,2018-10-18T05:43:00,lab_result,Hematocrit,39.18
+R212,O212,2018-10-18T05:43:00,lab_result,White Blood Cell Count,10.23
+R213,O213,2019-01-07T11:26:39,lab_result,Sodium,142.58
+R213,O213,2019-01-07T11:24:39,lab_result,Potassium,3.72
+R213,O213,2019-01-07T11:32:39,lab_result,Chloride,97.38
+R213,O213,2019-01-07T11:29:39,lab_result,BUN,11.61
+R213,O213,2019-01-07T11:30:39,lab_result,Creatinine,0.98
+R213,O213,2019-01-07T11:33:39,lab_result,AST,23.5
+R213,O213,2019-01-07T11:28:39,lab_result,ALT,22.96
+R213,O213,2019-01-07T11:28:39,lab_result,Alkaline phosphatase,88.46
+R213,O213,2019-01-07T11:28:39,lab_result,Total bilirubin,0.86
+R214,O214,2019-01-08T17:15:22,lab_result,Sodium,139.87
+R214,O214,2019-01-08T17:09:22,lab_result,Potassium,4.58
+R214,O214,2019-01-08T17:12:22,lab_result,Chloride,96.73
+R214,O214,2019-01-08T17:13:22,lab_result,BUN,16.36
+R214,O214,2019-01-08T17:15:22,lab_result,Creatinine,1.22
+R216,O216,2017-09-15T15:54:19,lab_result,Sodium,141.51
+R216,O216,2017-09-15T15:56:19,lab_result,Potassium,4.16
+R216,O216,2017-09-15T15:54:19,lab_result,Chloride,96.49
+R216,O216,2017-09-15T15:55:19,lab_result,BUN,14.43
+R216,O216,2017-09-15T16:02:19,lab_result,Creatinine,0.88
+R224,O224,2018-09-18T12:26:09,lab_result,Hemoglobin,15.35
+R224,O224,2018-09-18T12:21:09,lab_result,Hematocrit,46.72
+R224,O224,2018-09-18T12:23:09,lab_result,White Blood Cell Count,5.28
+R228,O228,2020-11-26T15:54:06,lab_result,Hemoglobin,13.07
+R228,O228,2020-11-26T15:46:06,lab_result,Hematocrit,41.2
+R228,O228,2020-11-26T15:51:06,lab_result,White Blood Cell Count,7.81
